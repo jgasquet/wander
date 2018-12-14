@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Music</string>
+			<key>imageName</key>
+			<string>ic_cat_microphone</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Food</string>
+			<key>imageName</key>
+			<string>ic_cat_food</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Arts</string>
+			<key>imageName</key>
+			<string>ic_cat_art</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tourism</string>
+			<key>imageName</key>
+			<string>ic_cat_tourism</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Comedy</string>
+			<key>imageName</key>
+			<string>ic_cat_comedy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lifestyle</string>
+			<key>imageName</key>
+			<string>ic_cat_lifestyle</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Meetups</string>
+			<key>imageName</key>
+			<string>ic_cat_meetups</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Festivals</string>
+			<key>imageName</key>
+			<string>ic_cat_festivals</string>
+		</dict>
+	</array>
+</array>
+</plist>
